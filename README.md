@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ... I read a lot of psychological and philosophical books
 
 
-<br />
 
 ## Languages and Tools:
 
@@ -35,8 +34,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <br />
-<br />
+
 
 ## Top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodhan29)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabodhan29)](https://github.com/anuraghazra/github-readme-stats)
+
