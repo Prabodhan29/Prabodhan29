@@ -9,3 +9,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I read a lot of psychological and philosophical books
 -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](Download my VS code theme) 
