@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- ## I am a computer engineering student who looks front-end web development and solving maths problems ( even though this ain't my subject)!!
+ ## I am a computer engineering student who loves front-end web development and solving maths problems ( even though this ain't my subject)!!
 
 - 🔭 I’m currently working on ... Improving myself
 - 🌱 I’m currently learning ... Node.js
