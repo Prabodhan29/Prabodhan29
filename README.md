@@ -1,10 +1,9 @@
-### Hi there 👋
- ## Prabodhan this side
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69918006/149368217-48b82112-490f-4102-8316-d439a76dacf7.gif" width="500" />
+# Hi there, I'm Prabodhan 👋
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69918006/149368217-48b82112-490f-4102-8316-d439a76dacf7.gif" width="400" />
  
 
  
- ## I am a computer engineering student who loves front-end web development and solving maths problems ( even though this ain't my subject)!!
+ ## I am a computer engineer...
 
 - 🔭 I’m currently working on ... Improving myself
 - 🌱 I’m currently learning ... Node.js
