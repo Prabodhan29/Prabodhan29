@@ -1,6 +1,7 @@
 ### Hi there 👋
  ## Prabodhan this side
- 
+ ![giphy](https://user-images.githubusercontent.com/69918006/149368217-48b82112-490f-4102-8316-d439a76dacf7.gif)
+
  
  ## I am a computer engineering student who loves front-end web development and solving maths problems ( even though this ain't my subject)!!
 
