@@ -6,10 +6,8 @@
  ## I am a computer engineer...
 
 - 🔭 I’m currently working on ... Improving myself
-- 🌱 I’m currently learning ... Node.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... prabodhan.s29@gmail.com
-- ⚡ Fun fact: ... I read a lot of psychological and philosophical books
 
 
 <br />
